@@ -1,5 +1,4 @@
-# Prog_prueba1
-Repaso de comandos git
+# Programación Aeronáutica
 
 ## Texto generado aleatoriamente
 
